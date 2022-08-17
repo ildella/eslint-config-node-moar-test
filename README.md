@@ -1,9 +1,9 @@
 # A "moar" ESLint configuration - for tests
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/npm/v/eslint-config-node-moar.svg?style=flat-square)](https://npmjs.com/package/eslint-config-node-moar)
-[![Build Status](https://github.com/ildella/eslint-config-node-moar/actions/workflows/main.yaml/badge.svg)](https://github.com/ildella/eslint-config-node-moar/actions)
-[![Known Vulnerabilities](https://snyk.io/test/github/ildella/eslint-config-node-moar/badge.svg?targetFile=package.json)](https://snyk.io/test/github/ildella/eslint-config-node-moar?targetFile=package.json)
+[![Version](https://img.shields.io/npm/v/eslint-config-node-moar-test.svg?style=flat-square)](https://npmjs.com/package/eslint-config-node-moar-test)
+[![Build Status](https://github.com/ildella/eslint-config-node-moar-test/actions/workflows/main.yaml/badge.svg)](https://github.com/ildella/eslint-config-node-moar-test/actions)
+[![Known Vulnerabilities](https://snyk.io/test/github/ildella/eslint-config-node-moar-test/badge.svg?targetFile=package.json)](https://snyk.io/test/github/ildella/eslint-config-node-moar-test?targetFile=package.json)
 
 An ESLint [Shareable Config](https://eslint.org/docs/latest/developer-guide/shareable-configs) that includes:
 
