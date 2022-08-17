@@ -1,0 +1,49 @@
+{
+  "name": "eslint-config-node-moar-test",
+  "version": "0.1.0",
+  "description": "If you do not test, you will never rest",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ildella/eslint-config-node-moar-test"
+  },
+  "author": {
+    "name": "Daniele Dellafiore",
+    "email": "daniele@dellafiore.net"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=12"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "test",
+    "jest",
+    "nodejs"
+  ],
+  "scripts": {
+    "lint": "eslint . --max-warnings 0",
+    "print": "eslint --print-config src/config.js >> all-config.js"
+  },
+  "devDependencies": {
+    "eslint": "8.21.0",
+    "eslint-config-node-moar": "0.8.0",
+    "eslint-plugin-jest": "26.8.2",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-security": "1.5.0",
+    "eslint-plugin-sonarjs": "0.15.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0",
+    "eslint-config-node-moar": ">=0.8.0",
+    "eslint-plugin-jest": ">=26",
+    "eslint-plugin-node": ">=11.1.0",
+    "eslint-plugin-promise": ">=5.0.0",
+    "eslint-plugin-security": ">=1.5.0",
+    "eslint-plugin-sonarjs": ">=0.5.0"
+  }
+}
