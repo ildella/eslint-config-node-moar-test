@@ -1133,9 +1133,9 @@ escape-string-regexp@^4.0.0:
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
 eslint-config-node-moar@0.8.0:
-  version "0.7.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-node-moar/-/eslint-config-node-moar-0.7.2.tgz#f39f41cbf459655f37312f722dc06c24dfe5a27e"
-  integrity sha512-q8I3exfCEuJoYyATnFeIIIcVg78h40P2vnwH2VLbKXRJ+3lJdb1Wd53/vmTnU5pI/Q+0B9Ka0VGNLVkhJWAlnQ==
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-node-moar/-/eslint-config-node-moar-0.8.0.tgz#3e304969502a810f017b0792761643dd0072c7a2"
+  integrity sha512-1u61t7UgTozZrrTLgWmUWeKez6K5V/+hAWRjBSdu7fW4q+N5AvW/Kc+VaJVYxJC7uzVrJNF2S8xej9oxNECQyQ==
 
 eslint-plugin-es@^3.0.0:
   version "3.0.1"
