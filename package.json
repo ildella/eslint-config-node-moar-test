@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-node-moar-test",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "If you do not test, you will never rest",
   "main": "index.js",
   "repository": {
